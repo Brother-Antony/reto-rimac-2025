@@ -95,20 +95,24 @@ La implementación del SEO es una parte crucial de garantizar que la aplicación
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-git clone https://github.com/Brother-Antony/reto-rimac-2024.git
+`git clone https://github.com/Brother-Antony/reto-rimac-2025.git`
 
 2. Entra en el directorio del proyecto:
 
-cd reto-rimac-2024
+`cd reto-rimac-2025`
 
-3. Instala las dependencias necesarias:
+3. Asegúrate de tener la versión 24 de Node.js instalada. Si no la tienes, puedes actualizarla utilizando nvm o Node.js oficial.
 
-npm install
+`node -v`
 
-4. Inicia la aplicación en modo de desarrollo:
+4. Instala las dependencias necesarias:
 
-npm run dev
+`npm install`
 
-5. Abre tu navegador y ve a `http://localhost:5173` para ver la aplicación en acción.
+5. Inicia la aplicación en modo de desarrollo:
+
+`npm run dev`
+
+6. Abre tu navegador y ve a `http://localhost:5173` para ver la aplicación en acción.
 
 ¡Gracias por revisar mi proyecto! Espero que sea de tu interés y te invite a considerar mi candidatura para esta posición.
